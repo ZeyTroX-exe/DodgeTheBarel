@@ -39,7 +39,7 @@ Pro Tip: Mastering the double jump is key to staying alive during the later stag
   
 ### 2. Download the Game
  - Clone this repository or download the ZIP file.
-  ```git clone ```
+  ```git clone https://github.com/ZeyTroX-exe/DodgeTheBarel.git```
 
 ### 3. Run the Game
  - Run the following command in your terminal:
