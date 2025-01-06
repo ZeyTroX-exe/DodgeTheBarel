@@ -35,5 +35,12 @@ Pro Tip: Mastering the double jump is key to staying alive during the later stag
 ### 1. Prerequisites  
 - **Python 3.x**: Make sure you have Python installed.  
 - **Pygame**: Install it using:  
-  ```bash
-  pip install pygame
+  ```pip install pygame```
+  
+### 2. Download the Game
+ - Clone this repository or download the ZIP file.
+  ```git clone ```
+
+### 3. Run the Game
+ - Run the following command in your terminal:
+ ```python dodge_the_barrel.py```
